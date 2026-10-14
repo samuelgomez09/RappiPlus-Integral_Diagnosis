@@ -11,7 +11,9 @@ What is the total revenue?.   What is the total cost?. How much has been investe
 
 What is the average ticket per order?. What is the average quantity of products per order?. What is the best-selling product?. How much was spent on marketing per channel?
 
-### 🛠️ Process DescriptionThe analysis is broken down into three main pipeline steps:
+### 🛠️ Process Description
+
+The analysis is broken down into three main pipeline steps:
 
 #### Step 1: Data Loading & Quality Validation
 
